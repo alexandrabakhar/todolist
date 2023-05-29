@@ -1,0 +1,29 @@
+.addButton {
+  margin-left: 0.5rem;
+  box-sizing: border-box;
+	height: 28px;
+	width: 140px;
+  border-radius: 30px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.addButton:hover {
+  border: 1px solid white;
+  color: white;
+  background-color: #282c34b1;
+}
+
+.input {
+  box-sizing: border-box;
+	height: 28px;
+	width: 180px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 30px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
